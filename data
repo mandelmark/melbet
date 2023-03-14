@@ -1,12 +1,16 @@
-com.HubLawtanApp1.melbetappapkbettingadvisor
-
-com.HubLawtanApp1.melbetappapkbettingadvisor
-
-8dbbdd199bbeceb9	BANNER	-	
-
-e9238b7ac622c0e3	INTER	-	
-
-bea26cd38c1d9d3e	NATIVE	-	
-
-d99f3618cb7269a0	REWARD	-
-
+ {
+            "ads": {"network":"applovin","url":""},
+            "reword": {"items":""},
+            
+            "fan": {
+            "banner":"",
+            "inter":"",
+            "nativ":"",
+            "reword":""},
+            
+            "applovin": {
+            "banner":"8dbbdd199bbeceb9",
+            "inter":"e9238b7ac622c0e3",
+            "nativ":"bea26cd38c1d9d3e",
+            "reword":"d99f3618cb7269a0"}
+            }
